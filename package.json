@@ -1,0 +1,24 @@
+{
+  "name": "fruitsdb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mi-kio/Fruit-DB.git"
+  },
+  "keywords": [],
+  "author": "sakshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mi-kio/Fruit-DB/issues"
+  },
+  "homepage": "https://github.com/Mi-kio/Fruit-DB#readme",
+  "dependencies": {
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.2"
+  },
+  "description": ""
+}
